@@ -44,7 +44,7 @@
             android:text="M,J,J,O,P"
             android:textAlignment="center"
             android:textColor="@android:color/white"
-            android:textSize="@dimen/slide_desc" />
+            android:textSize="16sp" />
 
     </LinearLayout>
 
